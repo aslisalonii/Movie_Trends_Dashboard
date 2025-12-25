@@ -49,7 +49,7 @@ ________________________________________
 📷 Dashboard Screenshots : https://drive.google.com/drive/folders/1ozOITG5hYafVOnPG3m99Ou_IXDsQWiui?usp=drive_link
 ________________________________________
 🔗 Important Links
-•	GitHub Repository: (Paste your GitHub link here)
+•	GitHub Repository: https://github.com/aslisalonii/Movie_Trends_Dashboard.git
 •	Google Drive Dataset Link: https://drive.google.com/drive/folders/1ozOITG5hYafVOnPG3m99Ou_IXDsQWiui?usp=drive_link
 ________________________________________
 📌 Conclusion
